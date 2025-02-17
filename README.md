@@ -23,6 +23,7 @@ A results-driven technical leader with a proven track record of delivering high-
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.
 - **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. This initiative proved how internal projects can deliver efficiency and innovation.
 - **synthtic monitoring:** Worked on establishing a method to have synthetic monitors with MAC, which has helped with continuous monitorig and alerting when its down. 
+- **Feature delivery:** 90% features were delivered in the comitted timeline in the year 2024 
 
 ## 🤝 Driving Culture
 - **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members.
