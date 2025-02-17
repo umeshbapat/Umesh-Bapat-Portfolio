@@ -1,5 +1,3 @@
-# Leadership Portfolio
-
 A results-driven technical leader with a proven track record of delivering high-value products across diverse domains. Passionate about hiring, building, and growing high-performing teams that drive innovation and impact.
 
 ## 🌟 My Leadership Philosophy
