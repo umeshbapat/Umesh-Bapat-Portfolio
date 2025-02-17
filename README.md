@@ -16,9 +16,10 @@ A results-driven technical leader with a proven track record of delivering high-
 - **Architectural Leadership:** Played a key role in architecture decisions across multiple teams, ensuring scalable and efficient solutions.
 
 ## 🚀 Achieving Results through Notable Deliveries
+- **At Rocket:** Was part of key reshuffle with client list in RocketPro resulting in significant performance improvement and great client satisafaction survey scores.  
 - **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.
 - **NOVA Appraisal Go-Live:** Led Appraisal to become the first team to launch a business team pilot and transition to multiple workspaces.
-- **MAC.ai (Amrock Assist):** Core developer/architect of this ambitious AI-driven initiative.
+- **MAC.ai (Amrock Assist):** One of the core developer/architect of this ambitious AI-driven initiative.
 - **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.
 - **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. This initiative proved how internal projects can deliver efficiency and innovation.
