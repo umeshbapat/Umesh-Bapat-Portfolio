@@ -35,13 +35,13 @@ A results-driven technical leader with a proven track record of delivering high-
 ## 🌱 Developing People
 ### 🔍 Identifying & Growing Talent
 - **📈 Promotions & Growth:** Mentored multiple engineers and product professionals, guiding their careers to higher roles:  
-  - 🏅 **John Marshall** → Associate to Software Engineer I → Software Engineer II  
-  - 🏅 **Rome Ogeto** → Associate to Software Engineer I → Software Engineer II  
-  - 🏅 **Murugan** → Software Engineer to Senior Software Engineer I → Senior Software Engineer II  
-  - 🏅 **Vinay Joshi** → Software Engineer to Senior Software Engineer  
-  - 🏅 **Joe Dueweke** → Associate BA to Application Engineer → Product Owner  
-  - 🏅 **Amy Cole** → Product Owner to Train Product Owner  
-  - 🏅 **Justin Patterson** → Senior Software Engineer to Software Architect  
+  -  **John Marshall** → Associate to Software Engineer I → Software Engineer II  
+  -  **Rome Ogeto** → Associate to Software Engineer I → Software Engineer II  
+  -  **Murugan** → Software Engineer to Senior Software Engineer I → Senior Software Engineer II  
+  -  **Vinay Joshi** → Software Engineer to Senior Software Engineer  
+  -  **Joe Dueweke** → Associate BA to Application Engineer → Product Owner  
+  -  **Amy Cole** → Product Owner to Train Product Owner  
+  -  **Justin Patterson** → Senior Software Engineer to Software Architect  
 - **🗺️ Personalized Development Plans:** Invested in one-on-one coaching and mentorship to help individuals navigate their career trajectories and build on their strengths.
 - **📚 Continuous Learning:** Encouraged engineers to engage in technical deep dives, attend conferences, and contribute to open-source projects.
 - **⚖️ Tough Conversations:** Delivered honest and consistent feedback, ensuring continuous improvement through both encouragement and difficult discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.
