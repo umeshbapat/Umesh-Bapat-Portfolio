@@ -1,4 +1,4 @@
-A results-driven technical leader with a proven track record of delivering high-value products across diverse domains. Passionate about hiring, building, and growing high-performing teams that drive innovation and impact.  
+A results-driven technical leader with a proven track record of delivering high-value products across diverse business domains. Passionate about hiring, building, and growing high-performing teams that drive innovation and impact.  
 ## 🌟 My Leadership Philosophy  
 - 🔥 Lead by example—never expect what I wouldn’t do myself.  
 - 🚀 Empower rather than delegate; build leaders, not followers.  
