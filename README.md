@@ -11,7 +11,6 @@ A results-driven technical leader with a proven track record of delivering high-
 - **AI/ML-Driven Efficiency:** Advocated for **AI-first** approaches in appraisal workflows, integrating ML-driven decision-making to improve speed and accuracy.  
 - **Cloud & Microservices Enablement:** Led the transition from **monolithic systems to microservices-based architectures**, improving scalability and system resilience.  
 - **Developer Experience & Internal Tools:** Expanded tooling efforts (e.g., **appFactory**) to standardize internal workflows, enhance developer productivity, and drive efficiency.  
-- **Business-Driven Technology Alignment:** Ensured appraisal technology delivers **measurable value**, enhancing automation, compliance, and cross-team collaboration.  
 - **PR Process Benchmarking:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.  
 - **Strategic Hiring:** Owned and optimized hiring processes, working with vendors to refine interview rounds and scale teams effectively.  
 
@@ -24,7 +23,6 @@ A results-driven technical leader with a proven track record of delivering high-
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
 - **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.  
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.  
-
 
 ## 🤝 Driving Culture  
 - **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members.  
