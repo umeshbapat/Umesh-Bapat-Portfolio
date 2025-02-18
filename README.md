@@ -44,7 +44,7 @@ A results-driven technical leader with a proven track record of delivering high-
 - **Personalized Development Plans:** Invested in one-on-one coaching and mentorship to help individuals navigate their career trajectories and build on their strengths.  
 - **Tough Conversations:** Delivered honest and consistent feedback, ensuring continuous improvement through both encouragement and difficult discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
-## 🚀 Future Vision  
+## 🚀 My Vision  
 Looking ahead, my focus is on **transforming Appraisal Technology** into a cutting-edge, **automation-driven, and scalable ecosystem**. The key pillars of this vision include:  
 - **AI-Powered and Data Driven Appraisal Processes:** Expanding the role of **machine learning** in APS, mission coltrol, and any type of automated decision-making.
   - **By inspiring identification of minor to major usecases to apply ML**   
