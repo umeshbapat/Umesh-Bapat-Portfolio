@@ -43,15 +43,12 @@ A results-driven technical leader with a proven track record of delivering high-
 - **Tough Conversations:** Delivered honest and consistent feedback, ensuring continuous improvement through both encouragement and difficult discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
 ## 🚀 My Vision  
-Looking ahead, my focus is on **transforming Appraisal Technology** into a cutting-edge, **automation-driven, and scalable ecosystem**. The key pillars of this vision include:  
-- **AI-Powered and Data Driven Appraisal Processes:** Expanding the role of **machine learning** in APS, mission coltrol, and any type of automated decision-making.
-  - **By inspiring identification of minor to major usecases to apply ML**   
-- **Scalability & Cloud-First Approach to speed up  the time to market:** Continuing to evolve appraisal technology towards **cloud-native architectures**, enhancing resilience, flexibility and efficiency.
-  - **By envisioning and enabling services outside of onprem and monolith** 
-- **Business team as our biggest advocates and partners of tech innovation**
-  - **By transparent education and evaluation of solutions with business buy-in**   
-- **Engineering Experience & Internal Efficiency:**
-  - **By strategic investment in engineering tools built for ourselves** 
+## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
+- **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making.  
+- **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency.  
+- **Business as Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in.  
+- **Engineering for Us** – Investing in internal tools to elevate developer experience and productivity.  
+
 
 ## 🔥 Leadership in Action  
 I believe in shaping the future by building great teams, driving innovation, and creating an environment where people thrive. My approach blends strategic vision with hands-on execution, making technology and people the core pillars of success.  
