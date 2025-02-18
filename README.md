@@ -14,7 +14,7 @@ A results-driven technical leader with a proven track record of delivering high-
 - **PR Process Benchmarking:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.  
 - **Strategic Hiring:** Owned and optimized hiring processes, working with vendors to refine interview rounds and scale teams effectively.  
 
-## 🚀 Achieving Results  
+## ✅ Achieving Results  
 ### 🎯 Notable Deliveries  
 - **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.  
 - **NOVA Appraisal Go-Live:** Led Appraisal to become the first team to launch a business team pilot and transition to multiple workspaces.  
