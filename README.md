@@ -46,10 +46,14 @@ A results-driven technical leader with a proven track record of delivering high-
 
 ## 🚀 Future Vision  
 Looking ahead, my focus is on **transforming Appraisal Technology** into a cutting-edge, **automation-driven, and scalable ecosystem**. The key pillars of this vision include:  
-- **AI-Powered and Data Driven Appraisal Processes:** Expanding the role of **machine learning** in APS, mission coltrol, and any type of automated decision-making.   
-- **Scalability & Cloud-First Approach:** Continuing to evolve appraisal technology towards **cloud-native architectures**, enhancing resilience and flexibility.
+- **AI-Powered and Data Driven Appraisal Processes:** Expanding the role of **machine learning** in APS, mission coltrol, and any type of automated decision-making.
+  - **By inspiring identification of minor to major usecases to apply ML**   
+- **Scalability & Cloud-First Approach to speed up  the build:** Continuing to evolve appraisal technology towards **cloud-native architectures**, enhancing resilience, flexibility and efficiency.
+  - **By envisioning and enabling services outside of onprem and monolith** 
 - **Business team as our biggest advocates and partners of tech innovation**
-- **Engineering Experience & Internal Efficiency:** Investing in tools and automation (e.g., appFactory, admins, PR tool etc.) to enhance engineering workflows and productivity.
+  - **By transparent education and evaluation of solutions with business buy-in**   
+- **Engineering Experience & Internal Efficiency:**
+  - **By strategic investment in engineering tools built for ourselves** 
 
 ## 🔥 Leadership in Action  
 I believe in shaping the future by building great teams, driving innovation, and creating an environment where people thrive. My approach blends strategic vision with hands-on execution, making technology and people the core pillars of success.  
