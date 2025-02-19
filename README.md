@@ -12,17 +12,17 @@ A results-driven technical leader with a proven track record of delivering high-
 - **Cloud & Microservices Enablement:** Led the transition from **monolithic systems to microservices-based architectures**, improving scalability and system resilience.  
 - **Developer Experience & Internal Tools:** Expanded tooling efforts (e.g., **appFactory**) to standardize internal workflows, enhance developer productivity, and drive efficiency.  
 - **PR Process Benchmarking:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.
-- **Experimenting with team processes:** I changed the team focus from the static timelines of sprints to milestones.  
+- **Successful experimenting with team processes:** I changed the team focus from the static timelines of sprints to milestones.  
 - **Strategic Hiring:** Owned and optimized hiring processes, working with vendors to refine interview rounds and scale teams effectively.  
 
 ## ✅ Achieving Results  
-### 🎯 Notable Deliveries  
-- **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.  
+### 🎯 Notable Deliveries   
 - **NOVA Appraisal Go-Live:** Led Appraisal to become the first team to launch a business team pilot and transition to multiple workspaces.  
-- **MAC.ai (Amrock Assist):** One of the core developer/architect of this ambitious AI-driven initiative.  
-- **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.  
+- **MAC.ai (Amrock Assist):** One of the core developer/architect of this ambitious AI-driven initiative.
+- **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
-- **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.  
+- **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain. 
+- **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.  
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.  
 
 ## 🤝 Driving Culture  
