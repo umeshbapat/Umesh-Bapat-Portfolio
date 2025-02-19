@@ -22,7 +22,7 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 ## ✅ Achieving Results  
 ### 🎯 Notable Deliveries   
 - **NOVA Appraisal Go-Live:** Led Appraisal to become the first team to launch a business team pilot and transition to multiple workspaces.  
-- **MAC.ai (Amrock Assist):** One of the core developer/architect of this ambitious AI-driven initiative.
+- **MAC.ai (Amrock Assist):** One of the core team members of this ambitious AI-driven initiative.
 - **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
 - **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain. 
