@@ -11,7 +11,8 @@ A results-driven technical leader with a proven track record of delivering high-
 - **AI/ML-Driven Efficiency:** Advocated for **AI-first** approaches in appraisal workflows, integrating ML-driven decision-making to improve speed and accuracy.  
 - **Cloud & Microservices Enablement:** Led the transition from **monolithic systems to microservices-based architectures**, improving scalability and system resilience.  
 - **Developer Experience & Internal Tools:** Expanded tooling efforts (e.g., **appFactory**) to standardize internal workflows, enhance developer productivity, and drive efficiency.  
-- **PR Process Benchmarking:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.  
+- **PR Process Benchmarking:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.
+- **Experimenting with team processes:** I changed the team focus from the static timelines of sprints to milestones.  
 - **Strategic Hiring:** Owned and optimized hiring processes, working with vendors to refine interview rounds and scale teams effectively.  
 
 ## ✅ Achieving Results  
