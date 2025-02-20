@@ -14,7 +14,7 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 - **AI/ML-Driven Efficiency:** Advocated for **AI-first** approaches in appraisal workflows, integrating ML-driven decision-making to improve speed and accuracy.  
 - **Cloud & Microservices Enablement:** Led the transition from **monolithic systems to microservices-based architectures**, improving scalability and system resilience.  
 - **Developer Experience & Internal Tools:** Expanded tooling efforts (e.g., **appFactory**) to standardize internal workflows, enhance developer productivity, and drive efficiency.  
-- **PR Process Benchmarking:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.
+- **PR counter tool:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.
 - **Successful experimenting with team processes:** I changed the team focus from the static timelines of sprints to milestones.\
 **[My linkedin article: Software delivery teams - landscape that can be creative](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
 - **Strategic Hiring:** Owned and optimized hiring processes, working with vendors to refine interview rounds and scale teams effectively.  
@@ -59,13 +59,10 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 - **Personalized Development Plans:** Invested in one-on-one coaching and mentorship to help individuals navigate their career trajectories and build on their strengths.  
 - **Tough Conversations:** Delivered honest and consistent feedback, ensuring continuous improvement through both encouragement and difficult discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
-## 🚀 My Vision  
+## 🚀 My Vision
 ## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
 - **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making.  
 - **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency.  
 - **Business as Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in.  
 - **Engineering for Us** – Investing in internal tools to elevate developer experience and productivity.  
-
-
-## 🔥 Leadership in Action  
-I believe in shaping the future by building great teams, driving innovation, and creating an environment where people thrive. My approach blends strategic vision with hands-on execution, making technology and people the core pillars of success.  
+ 
