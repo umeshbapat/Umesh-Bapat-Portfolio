@@ -12,11 +12,11 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 ## 🧠 Strategic Thinking  
 - **Transforming Teams:** Built high-performing teams, driving cloud enablement in **Servicing, RocketPro, Origination, and Appraisal Tech.**  
 - **AI/ML-Driven Efficiency:** Implemented AI based appraisal workflows, leveraging ML for faster, smarter decision-making.  
-- **Cloud & Microservices:** Led monolith-to-microservices transition, enhancing scalability and resilience.  
+- **Architectural Reform:** Played influential role in monolith-to-microservices transition, enhancing scalability and resilience.  
 - **Developer Experience:** Scaled internal tooling (e.g., **appFactory**, **appraisal admin**) to streamline workflows and boost productivity.  
 - **Performance Management:** Built a PR reporting tool, multiple leaders adopted it for coaching and performance review in FOC.  
 - **Process Innovation:** Shifted teams from rigid sprints to milestone-driven delivery.  
-  [**My Article**](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)  
+  [**My Linkedin Article: Software delivery teams - landscape that can be creative**](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)  
 - **Strategic Hiring:** Optimized hiring pipelines, refining vendor collaborations and interview processes.  
 
 ## ✅ Achieving Results  
@@ -61,8 +61,9 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 
 ## 🚀 My Vision For Appraisal Team
 ## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
-- **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making.  
-- **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency.  
-- **Business as Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in.  
-- **Engineering for Us** – Investing in internal tools to elevate developer experience and productivity.  
+- **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making. 🤖
+- **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency. 🌐  
+- **Business as Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in. 📈  
+- **Engineering for Us** – Investing in internal tools to elevate developer experience and productivity. 🔧  
+
  
