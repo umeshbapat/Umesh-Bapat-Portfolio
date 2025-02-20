@@ -68,9 +68,14 @@ With 19 years in the software industry and variety of domains and geography, I b
 
 ## 🚀 My Vision For Appraisal Team
 ## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
+- **Nothing is clear like Roadmap Clarity** – Work on identifying clear roadmap for next 12 months.
 - **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making. 🤖
 - **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency. 🌐  
 - **Business as Our Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in. 📈  
-- **Engineering For Ourselves!** – Investing in internal tools to elevate developer experience and productivity. 🔧  
+- **Engineering For Ourselves!** – Investing in internal tools to elevate developer experience and productivity. 🔧
 
+---
+<p align="center" style="font-size: 16px; color: #333; font-style: italic;">
+  Crafted with care by Umesh Bapat
+</p>
  
