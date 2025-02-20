@@ -56,10 +56,9 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
   - **Joe Dueweke** → Associate BA to Application Engineer → Product Owner  
   - **Justin Patterson** → Senior Software Engineer to Software Architect
   - **Moriah Clements** → PO to Senior PO and also a Rock Honors winner
-- **Personalized Development Plans:** Invested in one-on-one coaching and mentorship to help individuals navigate their career trajectories and build on their strengths.  
-- **Tough Conversations:** Delivered honest and consistent feedback, ensuring continuous improvement through both encouragement and difficult discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
+- **Tough Conversations And Reshaping The Performance:** Delivered honest and consistent feedback in needs improvement candidates, ensuring continuous improvement through both encouragement and tough discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
-## 🚀 My Vision
+## 🚀 My Vision For Appraisal Team
 ## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
 - **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making.  
 - **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency.  
