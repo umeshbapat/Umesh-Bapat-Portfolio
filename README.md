@@ -10,16 +10,14 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 - 🌱 Keep the work environment light, healthy, and inspiring.  
 
 ## 🧠 Strategic Thinking  
-
-| **Focus Area**                | **Contributions** |
-|--------------------------------|-------------------------------------------------------------|
-| **🌟 Transforming Teams**      | Led cloud enablement in multiple domains (Servicing, RocketPro, Origination, Appraisal Tech) |
-| **📊 AI/ML-Driven Efficiency** | Advocated and implemented AI-first workflows, improving speed and decision accuracy |
-| **☁️ Cloud & Microservices**   | Lead monolith-to-microservices transition for scalability |
-| **🛠 Developer Experience**    | Built and expanded internal tooling (**appFactory**) to scaffold APIs for developers |
-| **✅ Performance Management**         | Built a PR Counter Tool tool which was widely adopted for coaching conversations and analytics |
-| **📌 Process Innovation**      | Shifted teams to milestone-driven delivery ([Read More](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)) |
-| **👥 Strategic Hiring**        | Refined hiring process, vendor coordination, and interview structures |
+- **Transforming Teams:** Built high-performing teams, driving cloud enablement in **Servicing, RocketPro, Origination, and Appraisal Tech.**  
+- **AI/ML-Driven Efficiency:** Implemented AI based appraisal workflows, leveraging ML for faster, smarter decision-making.  
+- **Cloud & Microservices:** Led monolith-to-microservices transition, enhancing scalability and resilience.  
+- **Developer Experience:** Scaled internal tooling (e.g., **appFactory**, **appraisal admin**) to streamline workflows and boost productivity.  
+- **Performance Management:** Built a PR reporting tool, multiple leaders adopted it for coaching and performance review in FOC.  
+- **Process Innovation:** Shifted teams from rigid sprints to milestone-driven delivery.  
+  [**My Article**](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)  
+- **Strategic Hiring:** Optimized hiring pipelines, refining vendor collaborations and interview processes.  
 
 ## ✅ Achieving Results  
 ### 🎯 Notable Deliveries   
