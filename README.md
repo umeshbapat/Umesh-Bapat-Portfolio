@@ -25,7 +25,8 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 - **MAC.ai (Amrock Assist):** One of the core team members of this ambitious AI-driven initiative.
 - **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
-- **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain. 
+- **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.
+- **Synthetic Monitor Establishment in MAC**
 - **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.\
 **[My alinkedin article: AI Isn’t Just About LLMs...](https://www.linkedin.com/pulse/ai-isnt-just-llmssmall-smart-solutions-can-drive-big-impact-bapat-jnu0c/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.\
