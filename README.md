@@ -35,7 +35,11 @@ With 19 years in the software industry and variety of domains and geography, I b
 ### 🎯 Team Achievements in year 2024  
 - **Feature Commitment to Delivery:** 92%  
 - **Top Talent:** Three engineers ranked among the top five most productive engineers last year  
-- **Deployment Excellence:** Deployment frequency among teams ~65% of the appraisal teams deploys  
+- **Deployment Excellence:** Deployment frequency among teams ~65% of the appraisal teams deploys
+
+### 🏆 Recognitions  
+- **Amrock All Stars** 🥇 – Recognized for outstanding contributions and leadership in driving innovation and impactful results.  
+- **Appraisal Team Performer of the Month** 🌟 – Acknowledged for exceptional performance, commitment, and team impact.  
 
 ## 🤝 Driving Culture  
 - **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members across all appraisal teams.  
