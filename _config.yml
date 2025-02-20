@@ -1,2 +1,7 @@
-
-theme: jekyll-theme-minimal
+title: Umesh's Portfolio
+author: Umesh Bapat
+description: >- 
+  This is my professional portfolio focussed on last three years in majority
+theme: jekyll-theme-minimal 
+logo: /assets/images/umesh.jpg
+show_downloads: false  # Set to true to show GitHub repo link
