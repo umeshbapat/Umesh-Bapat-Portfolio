@@ -63,7 +63,7 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 ## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
 - **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making. 🤖
 - **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency. 🌐  
-- **Business as Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in. 📈  
-- **Engineering for Us** – Investing in internal tools to elevate developer experience and productivity. 🔧  
+- **Business as Our Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in. 📈  
+- **Engineering For Ourselves!** – Investing in internal tools to elevate developer experience and productivity. 🔧  
 
  
