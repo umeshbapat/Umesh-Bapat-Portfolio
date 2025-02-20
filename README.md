@@ -20,7 +20,8 @@ With 19 years in the software industry and variety of domains and geography, I b
 - **Strategic Hiring:** Optimized hiring pipelines, refining vendor collaborations and interview processes.  
 
 ## ✅ Achieving Results  
-### 🎯 Notable Deliveries in last three years   
+---
+### 🎯 Notable Deliveries in last three years
 - **NOVA Appraisal Go-Live:** Led Appraisal to become the first team to launch a business team pilot and transition to multiple workspaces.  
 - **MAC.ai (Amrock Assist):** One of the core team members of this ambitious AI-driven initiative.
 - **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.
@@ -40,6 +41,7 @@ With 19 years in the software industry and variety of domains and geography, I b
 ### 🏆 Recognitions  
 - **Amrock All Stars** 🥇 – Recognized for outstanding contributions and leadership in driving innovation and impactful results.  
 - **Appraisal Team Performer of the Month** 🌟 – Acknowledged for exceptional performance, commitment, and team impact.  
+---
 
 ## 🤝 Driving Culture  
 - **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members across all appraisal teams.  
