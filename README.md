@@ -10,14 +10,16 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 - 🌱 Keep the work environment light, healthy, and inspiring.  
 
 ## 🧠 Strategic Thinking  
-- **Transforming Teams:** Successfully shaped multiple teams into high-performing groups, leading cloud enablement initiatives in Servicing, RocketPro, Origination, and Appraisal Tech.  
-- **AI/ML-Driven Efficiency:** Advocated for **AI-first** approaches in appraisal workflows, integrating ML-driven decision-making to improve speed and accuracy.  
-- **Cloud & Microservices Enablement:** Led the transition from **monolithic systems to microservices-based architectures**, improving scalability and system resilience.  
-- **Developer Experience & Internal Tools:** Expanded tooling efforts (e.g., **appFactory**) to standardize internal workflows, enhance developer productivity, and drive efficiency.  
-- **PR counter tool:** Identified the need for a standardized PR process and developed a tool adopted by multiple leaders to improve coaching and performance evaluation.
-- **Successful experimenting with team processes:** I changed the team focus from the static timelines of sprints to milestones.\
-**[My linkedin article: Software delivery teams - landscape that can be creative](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
-- **Strategic Hiring:** Owned and optimized hiring processes, working with vendors to refine interview rounds and scale teams effectively.  
+
+| **Focus Area**                | **Contributions** |
+|--------------------------------|-------------------------------------------------------------|
+| **🌟 Transforming Teams**      | Led cloud enablement in multiple domains (Servicing, RocketPro, Origination, Appraisal Tech) |
+| **📊 AI/ML-Driven Efficiency** | Advocated and implemented AI-first workflows, improving speed and decision accuracy |
+| **☁️ Cloud & Microservices**   | Lead monolith-to-microservices transition for scalability |
+| **🛠 Developer Experience**    | Built and expanded internal tooling (**appFactory**) to scaffold APIs for developers |
+| **✅ Performance Management**         | Built a PR Counter Tool tool which was widely adopted for coaching conversations and analytics |
+| **📌 Process Innovation**      | Shifted teams to milestone-driven delivery ([Read More](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)) |
+| **👥 Strategic Hiring**        | Refined hiring process, vendor coordination, and interview structures |
 
 ## ✅ Achieving Results  
 ### 🎯 Notable Deliveries   
