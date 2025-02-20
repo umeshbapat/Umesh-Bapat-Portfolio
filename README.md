@@ -31,10 +31,20 @@ With 19 years in the software industry, I bring over 10+ years of hands-on leade
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.\
   **[My linkedin article: How we reengineered the guts of a product](https://www.linkedin.com/pulse/how-we-reengineered-guts-product-umesh-bapat-xgsvc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**  
 
+### 🎯 Team Achievements in year 2024  
+- **Feature Commitment to Delivery:** 92%  
+- **Top Talent:** Three engineers ranked among the top five most productive engineers last year  
+- **Deployment Excellence:** Deployment frequency among teams ~65% of the appraisal teams deploys  
+
 ## 🤝 Driving Culture  
-- **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members.  
-- **Building a Culture of Excellence:** Inspired a team of high achievers—resulting in widespread recognition for exceeding expectations.  
+- **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members across all appraisal teams.  
 - **Advocacy & Awareness:** Initiated leadership discussions on immigrant experiences, leading to a successful company-wide event that raised awareness on immigration complexities.  
+- **Outlet Results Over Last Three Years**  
+📊 2022 **F**: ███████▏ 72%  
+📊 2023 **S**: ████████████▎ 95%  
+📊 2023 **F**: ██████████████ 100%  
+📊 2024 **S**: ██████████████ 100%  
+📊 2024 **F**: ██████████████ 100%  
 
 ## 🌱 Developing People  
 ### 🔍 Identifying & Growing Talent  
