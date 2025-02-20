@@ -28,9 +28,9 @@ With 19 years in the software industry and variety of domains and geography, I b
 - **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.
 - **Synthetic Monitor Establishment in MAC**
 - **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.\
-**[My alinkedin article: AI Isn’t Just About LLMs...](https://www.linkedin.com/pulse/ai-isnt-just-llmssmall-smart-solutions-can-drive-big-impact-bapat-jnu0c/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
+**[My Linkedin Article: AI Isn’t Just About LLMs...](https://www.linkedin.com/pulse/ai-isnt-just-llmssmall-smart-solutions-can-drive-big-impact-bapat-jnu0c/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.\
-  **[My linkedin article: How we reengineered the guts of a product](https://www.linkedin.com/pulse/how-we-reengineered-guts-product-umesh-bapat-xgsvc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**  
+  **[My Linkedin Article: How we reengineered the guts of a product](https://www.linkedin.com/pulse/how-we-reengineered-guts-product-umesh-bapat-xgsvc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**  
 
 ### 🎯 Team Achievements in year 2024  
 - **Feature Commitment to Delivery:** 92%  
