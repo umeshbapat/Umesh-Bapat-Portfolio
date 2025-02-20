@@ -41,6 +41,7 @@ With 19 years in the software industry and variety of domains and geography, I b
 ### 🏆 Recognitions  
 - **Amrock All Stars** 🥇 – Recognized for outstanding contributions and leadership in driving innovation and impactful results.  
 - **Appraisal Team Performer of the Month** 🌟 – Acknowledged for exceptional performance, commitment, and team impact.  
+
 ---
 
 ## 🤝 Driving Culture  
