@@ -28,6 +28,7 @@ With 19 years in the software industry and variety of domains and geography, I b
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
 - **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.
 - **Synthetic Monitor Establishment in MAC**
+- **Automated release notes**
 - **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.\
 **[My Linkedin Article: AI Isn’t Just About LLMs...](https://www.linkedin.com/pulse/ai-isnt-just-llmssmall-smart-solutions-can-drive-big-impact-bapat-jnu0c/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.\
