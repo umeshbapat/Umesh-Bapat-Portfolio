@@ -1,6 +1,6 @@
 A results-driven technical leader with a proven track record of delivering high-value products across diverse business domains. Passionate about hiring, building, and growing high-performing teams that drive innovation and impact.  
 ## 👨‍💻 About Me
-With 19 years in the software engineering industry and variety of domains and geography, I bring over 10+ years of hands-on leadership, where I've led teams to successfully execute and deliver impactful solutions. About 10 years I joined Rocket family of companies as a contractor and in a matter of over a years time I was offered a leader's job, since then I’ve continued to foster high-performance cultures and lead teams to innovative results 🚀, always with an emphasis on long-term success and team empowerment 💡
+With 19 years in the software engineering industry and variety of domains and geography, I bring over 10+ years of hands-on leadership, where I've led teams to successfully execute and deliver impactful solutions. About 10 years ago I joined Rocket family of companies as a contractor and in a matter of over a years time I was offered a leader's job, since then I’ve continued to foster high-performance cultures and lead teams to innovative results 🚀, always with an emphasis on long-term success and team empowerment 💡
 
 ## 🌟 My Leadership Philosophy  
 - 🔥 Lead by example—never expect what I wouldn’t do myself.  
