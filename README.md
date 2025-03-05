@@ -11,13 +11,13 @@ With 19 years in the software engineering industry and variety of domains and ge
 
 ## 🧠 Strategic Thinking  
 - **Transforming Teams:** Built high-performing teams, driving cloud enablement in **Servicing, RocketPro, Origination, and Appraisal Tech.**  
-- **AI/ML-Driven Efficiency:** Implemented AI based appraisal workflows, leveraging ML for faster, smarter decision-making.  
+- **AI/ML-Driven Efficiency:** Implemented AI based appraisal workflows, leveraging ML for faster, smarter decision-making. Will result in 20% reduction in manual tasks for APS.  
 - **Architectural Reform:** Played influential role in monolith-to-microservices transition, enhancing scalability and resilience.  
-- **Developer Experience:** Scaled internal tooling (e.g., **appFactory**, **appraisal admin**) to streamline workflows and boost productivity.  
+- **Developer Experience:** Scaled internal tooling (e.g., **appFactory**, **appraisal admin**) to streamline workflows and boost productivity. This gets rid of 100% manual efforts for developer to establish a new API in prod.  
 - **Performance Management:** Built a PR reporting tool, multiple leaders adopted it for coaching and performance review in FOC.  
 - **Process Innovation:** Shifted teams from rigid sprints to milestone-driven delivery.  
   [**My Linkedin Article: Software delivery teams - landscape that can be creative**](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)  
-- **Strategic Hiring:** Optimized hiring pipelines, refining vendor collaborations and interview processes.  
+- **Strategic Hiring:** Optimized hiring pipelines, refining vendor collaborations and interview processes. Hired a new team of developers to grow the train size by 10% headcount.
 
 ## ✅ Achieving Results  
 ---
