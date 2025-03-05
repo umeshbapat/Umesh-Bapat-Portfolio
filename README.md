@@ -48,7 +48,7 @@ With 19 years in the software engineering industry and variety of domains and ge
 ## 🤝 Driving Culture  
 - **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members across all appraisal teams.  
 - **Advocacy & Awareness:** Initiated leadership discussions on immigrant experiences, leading to a successful company-wide event that raised awareness on immigration complexities.  
-- **Outlet Results Over Last Three Years**  
+- **Outlet Engagement Results Over Last Three Years**  
 📊 2022 **F**: ███████▏ 72%  
 📊 2023 **S**: ████████████▎ 95%  
 📊 2023 **F**: ██████████████ 100%  
