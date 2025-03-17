@@ -36,7 +36,7 @@ With 19 years in the software engineering industry and variety of domains and ge
 - **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
 - **Synthetic Monitor Establishment in MAC:** Its an intelligent way to monitor our browser apps which will routinely login to our systems and check for any user flow we would like to test.  
 - **Automated release notes:** Publishes release notes after any deploy from a release branch to the production.
-- **PR report generation
+- **PR report generation tool**
 
 ### 🎯 Team Performance Achievements in year 2024  
 - **Feature Commitment to Delivery:** 92%  
