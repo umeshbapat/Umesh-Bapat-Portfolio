@@ -9,12 +9,12 @@ With 19 years in the software engineering industry and variety of domains and ge
 - 🎯 Maintain clarity, passion, commitment, and transparency within teams.  
 - 🌱 Keep the work environment light, healthy, and inspiring.  
 
-## 🧠 Strategic Thinking  
+## 🧠 Strategic Thinking 
 - **Transforming Teams:** Built high-performing teams, driving cloud enablement in **Servicing, RocketPro, Origination, and Appraisal Tech.**  
-- **AI/ML-Driven Efficiency:** Implemented AI based appraisal workflows, leveraging ML for faster, smarter decision-making. Will result in 20% reduction in manual tasks for APS.  
-- **Architectural Reform:** Played influential role in monolith-to-microservices transition and architectural reforms, enhancing scalability and resilience. 40% reduction in support tickets at one place.   
-- **Developer Experience:** Scaled internal tooling (e.g., **appFactory**, **appraisal admin**) to streamline workflows and boost productivity. This gets rid of 100% manual efforts for developer to establish a new API in prod.  
-- **Performance Management:** Built a PR reporting tool, multiple leaders adopted it for coaching and performance review in FOC.  
+- **AI/ML-Driven Efficiency:** Implemented AI based appraisal workflows, leveraging ML for faster, smarter decision-making. Will result in **20% reduction** in manual tasks for APS.  
+- **Architectural Reform:** Played an influential leader/architect role in monolith-to-microservices transition and architectural reforms, enhancing scalability and resilience. 40% reduction in support tickets at one place. **Improved support tickets inflow by 50%**   
+- **Developer Experience:** Scaled internal tooling (e.g., **appFactory**, **appraisal admin**) to streamline workflows and boost productivity. This **gets rid of 100% manual efforts** for developer to establish a new API in prod.  
+- **Performance Management:** Built a PR reporting tool from scratch, made it scalable, multiple leaders adopted it for coaching and performance review in FOC.  
 - **Process Innovation:** Shifted teams from rigid sprints to milestone-driven delivery.  
   [**My Linkedin Article: Software delivery teams - landscape that can be creative**](https://www.linkedin.com/pulse/software-delivery-teams-landscape-can-creative-umesh-bapat-paxmc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)  
 - **Strategic Hiring:** Optimized hiring pipelines, refining vendor collaborations and interview processes. Hired a new team of developers to grow the train size by 10% headcount.
@@ -24,17 +24,21 @@ With 19 years in the software engineering industry and variety of domains and ge
 ### 🎯 Notable Deliveries in last three years
 - **NOVA Appraisal Go-Live:** Led Appraisal to become the first team to launch a business team pilot and transition to multiple workspaces.  
 - **MAC.ai (Amrock Assist):** One of the core team members of this ambitious AI-driven initiative.
-- **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.
-- **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
-- **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.
-- **Synthetic Monitor Establishment in MAC**
-- **Automated release notes**
 - **Machine Learning Microservice:** Designed and implemented a microservice that improved APS team efficiency by reducing manual tasks.\
 **[My Linkedin Article: AI Isn’t Just About LLMs...](https://www.linkedin.com/pulse/ai-isnt-just-llmssmall-smart-solutions-can-drive-big-impact-bapat-jnu0c/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**
+- **Postgres migration:** Migrated all cloud native services and apps of appraisal from RDS to Postgres.    
+- **Property Analytics & Starter MISMO (Quantum):** Spearheaded the first cloud services in Appraisal Tech, establishing the team’s credibility in the space despite being new to the domain.
 - **Client List Revamp (RocketPro):** Overhauled a **high-maintenance client tracking dashboard** plagued by production incidents and performance issues. Solved **data ownership gaps, real-time sync challenges, and API inefficiencies** by implementing an **event-driven architecture** and a **lightweight API ecosystem**, significantly improving data accuracy, speed, and user experience.\
-  **[My Linkedin Article: How we reengineered the guts of a product](https://www.linkedin.com/pulse/how-we-reengineered-guts-product-umesh-bapat-xgsvc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**  
+  **[My Linkedin Article: How we reengineered the guts of a product](https://www.linkedin.com/pulse/how-we-reengineered-guts-product-umesh-bapat-xgsvc/?trackingId=%2Bx7%2FL3h9Tb%2BWnCxwY6gA4A%3D%3D)**    
+  
+### 💡🔬 Major hands-on innovation outside of mainstream work
+- **appFactory:** A fantastic demonstration of how a team can be inspired to take on a side project during hack weeks, with a focus on innovation, efficiency, and empowering engineers. It also serves as a model for **internal tooling and automation** to enhance engineering workflows.
+- **Appraisal Admin Tool:** Built a tool to streamline and automate daily support tasks, significantly enhancing productivity.  
+- **Synthetic Monitor Establishment in MAC:** Its an intelligent way to monitor our browser apps which will routinely login to our systems and check for any user flow we would like to test.  
+- **Automated release notes:** Publishes release notes after any deploy from a release branch to the production.
+- **PR report generation
 
-### 🎯 Team Achievements in year 2024  
+### 🎯 Team Performance Achievements in year 2024  
 - **Feature Commitment to Delivery:** 92%  
 - **Top Talent:** Three engineers ranked among the top five most productive engineers last year  
 - **Deployment Excellence:** Deployment frequency among teams ~65% of the appraisal teams deploys
@@ -44,7 +48,6 @@ With 19 years in the software engineering industry and variety of domains and ge
 - **Appraisal Team Performer of the Month** 🌟 – Acknowledged for exceptional performance, commitment, and team impact.  
 
 ---
-
 ## 🤝 Driving Culture  
 - **Team Time:** Monthly sessions fostering camaraderie and deeper personal connections among team members across all appraisal teams.  
 - **Advocacy & Awareness:** Initiated leadership discussions on immigrant experiences, leading to a successful company-wide event that raised awareness on immigration complexities.  
