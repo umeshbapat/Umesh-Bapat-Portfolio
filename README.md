@@ -70,7 +70,7 @@ With 19 years in the software engineering industry and variety of domains and ge
   - **Moriah Clements** → PO to Senior PO and also a Rock Honors winner
 - **Tough Conversations And Reshaping The Performance:** Delivered honest and consistent feedback in needs improvement candidates, ensuring continuous improvement through both encouragement and tough discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
-## 🚀 My Vision For Appraisal Team
+## 🚀 My Vision For Product Team
 ### 🚀 Customer-Centric & AI-Driven
  - Use AI/ML
 ### 💡 Technology & Automation Leadership  
