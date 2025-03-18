@@ -71,12 +71,13 @@ With 19 years in the software engineering industry and variety of domains and ge
 - **Tough Conversations And Reshaping The Performance:** Delivered honest and consistent feedback in needs improvement candidates, ensuring continuous improvement through both encouragement and tough discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
 ## 🚀 My Vision For Appraisal Team
-## Transforming Appraisal Technology: More—Smarter, Faster, and Automation-Driven  
-- **Nothing is clear like Roadmap Clarity** – Work on identifying clear roadmap for next 12 months.
-- **Let ML Do the Work** – Expanding AI in APS, Mission Control, and automation for better decision-making. 🤖
-- **Move to Cloud, Scale with Speed** – Shifting from on-prem to cloud-native for agility, resilience, and efficiency. 🌐  
-- **Business as Our Innovation Advocates** – Driving tech evolution through transparency, collaboration, and business buy-in. 📈  
-- **Engineering For Ourselves!** – Investing in internal tools to elevate developer experience and productivity. 🔧
+### 🚀 Customer-Centric & AI-Driven
+ - Use AI/ML
+### 💡 Technology & Automation Leadership  
+ - Using automation to remove redundancy and inefficiency 
+### ⚙️ Operational Efficiency & Scalability  
+ - Scale the automation seamlessly with faster products 
+
 
 ---
 <p align="center" style="font-size: 16px; color: #333; font-style: italic;">
