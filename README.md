@@ -71,15 +71,6 @@ With 20 years in the software industry and variety of domains and geography, I b
   - **Moriah Clements** → PO to Senior PO and also a Rock Honors winner
 - **Tough Conversations And Reshaping The Performance:** Delivered honest and consistent feedback in needs improvement candidates, ensuring continuous improvement through both encouragement and tough discussions. Growth often requires facing hard truths, and I believe in providing constructive, actionable insights that drive professional excellence.  
 
-## 🚀 My Vision For Product Team
-### 🚀 Customer-Centric & AI-Driven
- - Use AI/ML
-### 💡 Technology & Automation Leadership  
- - Using automation to remove redundancy and inefficiency 
-### ⚙️ Operational Efficiency & Scalability  
- - Scale the automation seamlessly with faster products 
-
-
 ---
 <p align="center" style="font-size: 16px; color: #333; font-style: italic;">
   Crafted with care by Umesh Bapat
