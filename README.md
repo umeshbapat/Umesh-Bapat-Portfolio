@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-A results-driven technology and product leader with a proven track record of delivering high-value products across diverse business domains. Passionate about building products, growing teams, and driving innovation through technology, AI, and automation.
+A results-driven technology and product leader with a proven track record of delivering high-value products across diverse business domains. Passionate about building products, growing teams, and driving innovation through technology, AI, and automation
 
 ---
 
